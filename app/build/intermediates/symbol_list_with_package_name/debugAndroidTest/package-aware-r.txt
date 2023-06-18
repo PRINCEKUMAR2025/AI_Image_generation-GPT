@@ -1,0 +1,3 @@
+com.example.promptimagegenerator.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
