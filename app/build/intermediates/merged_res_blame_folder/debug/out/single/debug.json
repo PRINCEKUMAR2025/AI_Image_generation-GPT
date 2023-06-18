@@ -1,126 +1,86 @@
 [
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\drawable_button.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\drawable\\button.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.promptimagegenerator.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.promptimagegenerator.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\drawable_dancingrobo.gif.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\drawable\\dancingrobo.gif"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\layout_image_list_item.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\layout\\image_list_item.xml"
     },
     {
-        "merged": "com.example.promptimagegenerator.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.promptimagegenerator.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.promptimagegenerator.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.promptimagegenerator.app-main-32:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\drawable_baseline_download_24.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\drawable\\baseline_download_24.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\drawable\\button.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\drawable_baseline_download_24.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\drawable\\baseline_download_24.xml"
+        "merged": "com.example.promptimagegenerator.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.promptimagegenerator.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\layout_image_list_item.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\layout\\image_list_item.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.promptimagegenerator.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.promptimagegenerator.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.promptimagegenerator.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.promptimagegenerator.app-main-32:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-30:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-32:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\princ\\.gradle\\daemon\\7.5\\com.example.promptimagegenerator.app-main-33:\\xml\\backup_rules.xml"
     }
 ]
