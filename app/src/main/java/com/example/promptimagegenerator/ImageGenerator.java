@@ -32,7 +32,7 @@ public class ImageGenerator {
         ArrayList<String> arrayList = new ArrayList<>();
         JSONObject js = new JSONObject();
         try {
-            String key = "ZRnX5GLzzLo8R9RvTnKPpvDLmvaCCNoFajolUoQH5ncMnQhVlK1tL46K6TE8";
+            String key = "P8kWajnfofboHECLfxNt33ZOshNFx816YOckQNdjA3Jddal0UV3EWKNSpxc2";
             js.put("key", key);
             js.put("prompt", prompt);
             js.put("samples", count);
